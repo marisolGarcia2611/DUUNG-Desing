@@ -38,7 +38,7 @@ sectionPerfil.innerHTML = `
                         <div>
                             <label class="label__p fw-bold">Confirmar contreseña</label>
                             <input type="text" class="form-control input__p"/>   
-                            <button type="submit" class="btn button__p">Aceptar</button>
+                            <button type="submit" class="btn button__p text__p">Aceptar</button>
                         </div> 
                     </div>
                 </div>

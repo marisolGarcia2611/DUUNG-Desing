@@ -11,14 +11,14 @@ sectionCultiva.innerHTML = `
         <div class="bg__cardCu contenedor-light">
             <div class="">
                 <h1 class="text-center title__Cu">Cultiva tu mente</h1>
-                <p class="fw-light">Aprende más leyento e informandote de lo que pasa en el mundo. Lee estas noticias mundiales.</p>
+                <p class="fw-light t__card">Aprende más leyento e informandote de lo que pasa en el mundo. Lee estas noticias mundiales.</p>
                 <div class="col-md-12">
                     <hr/>
                     <div class="row">
                         <img class="col-md-4 img__card" src="Images/news.jpg" />
                         <div class="col-md-8">
                             <h4 class="fw-light">Dato Interesante</h4>
-                           <p class="fw-light">
+                           <p class="fw-light t__card">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                             nisi ut aliquip ex ea commodo consequat.
                            </p> 
