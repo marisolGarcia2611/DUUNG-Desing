@@ -9,13 +9,13 @@ sectioStarPartida.innerHTML = `
 
 
            <div class="card position-absolute start-50 translate-middle-x shadow card__Bloc" style="border-radius:50px;">
-              <div class="card-body" style="padding:30px;">
+              <div class="card-body">
                      <div class="container">
                      <center>
                             <div>
                                    <label><h4 class="subTittle__card">Materia</h4></label>
                                    <div></div>
-                                   <select class="form-select form-select-lg mb-3 fw-light" style="font-size:15px;border-radius:20px;margin-top:10px;" aria-label="Ejemplo de .form-select-lg">
+                                   <select class="form-select form-select-lg mb-3 fw-light" style="font-size:15px;border-radius:20px;margin-top:10px;" aria-label="form-select-lg">
                                           <option class="fw-light" selected>Abre este menú select</option>
                                           <option class="fw-light" value="1">Uno</option>
                                           <option class="fw-light" value="2">Dos</option>
