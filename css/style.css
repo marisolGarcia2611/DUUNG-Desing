@@ -36,7 +36,13 @@
 body{
     font-family: 'Exo', sans-serif;
 }
+.text1__game{
+    font-size: 27px;
+}
+.text2__game{
+    font-size: 22px;
 
+}
 
 .context {
     width: 100%;
@@ -512,6 +518,12 @@ body{
 }
 
 @media (max-width: 600px) {
+    .text1__game{
+        font-size: 20px;
+    }
+    .text2__game{
+        font-size: 15px;
+    }
     .t__card{
         font-size: 12px;
     }
@@ -706,7 +718,7 @@ body{
     .card__BlocGame{
         top:4vh;
         z-index:2;
-        width: 80%;
+        width: 90%;
     }
 
     .reloj__position{
@@ -958,6 +970,13 @@ body{
 
   @media (max-width: 375px) 
   {
+    .text1__game{
+        font-size: 17px;
+    }
+    .text2__game{
+        font-size: 12px;
+    
+    }
     .title__cardConfigurate{
         color:var(--white);
         font-family: 'LuckiestGuy Regular';
